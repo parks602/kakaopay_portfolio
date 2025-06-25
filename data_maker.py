@@ -4,7 +4,6 @@ from datetime import timedelta
 import random
 import matplotlib.pyplot as plt
 import os
-import sys
 
 
 def generate_user_table(n_users, save_dir):
